@@ -1,0 +1,12 @@
+.headpic {
+	height: 100px;
+	width: auto;
+	margin-left: 0cm;
+}
+
+.frontalign {
+	display: inline-block;
+	height: 100px;
+	width: max-content;
+
+}
